@@ -4,12 +4,9 @@
 float sq(float a)
 {
 	int b,c,p,q,r, sum;
-	/*printf("Enter a integer: ");
-	scanf("%d", &a);
 
-	b = a*a;
-	printf("Square of %d is %d\n", a, b);*/
-
+	//b = a*a;
+	//return (b);
 	b = a+1; //6
 	c = b+1; //7
 
@@ -25,12 +22,11 @@ float sq(float a)
 
 void main()
 {
-
-	int a;
-	float b;
+	float a,b;
 	printf("Enter a number: ");
-	scanf("%d", &a);//5
+	scanf("%f", &a);//5
 
 	b = sq(a);
 	printf("\nSum = %2.3f\n",b);
+	//printf("\nSquare of %f is %f\n",a,b);
 }
