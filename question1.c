@@ -28,5 +28,5 @@ void main()
 
 	b = sq(a);
 	printf("\nSum = %2.3f\n",b);
-	//printf("\nSquare of %f is %f\n",a,b);
+	//printf("\nSquare of %2.3f is %2.3f\n",a,b);
 }
