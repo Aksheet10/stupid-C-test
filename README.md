@@ -1,3 +1,1 @@
-# Stupid C test
-
-Stupid C test of 29 may 2021 which was complete useless
+# Stupid C test of 29 may 2021 which was complete useless
