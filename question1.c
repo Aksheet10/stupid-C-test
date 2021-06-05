@@ -3,7 +3,7 @@
 // Square
 float sq(float a)
 {
-	float b,c,p,q,r, sum;
+	float b;
 
 	b = a*a;
 	return (b);
